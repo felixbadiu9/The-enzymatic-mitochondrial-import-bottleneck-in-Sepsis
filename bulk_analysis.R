@@ -11,7 +11,7 @@ library(pheatmap)
 library(RColorBrewer)
 library(writexl)
 
-GENES <- c("GCLC", "GCLM", "NFE2L2", "PINK1", "PRKN", "NLRP3", "GSDMD", "SLC25A39", "SLC25A40", "AFG3L2")
+GENES <- c("GCLC", "GCLM", "NFE2L2", "PINK1", "PRKN", "NLRP3", "GSDMD", "SLC25A39", "SLC25A40", "AFG3L2","BNIP3L","FUNDC1")
 
 datasets <- c("GSE54514", "GSE13904", "GSE28750")
 
